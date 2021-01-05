@@ -1,0 +1,16 @@
+{
+  "name": "@ng.huyy/shortcode",
+  "version": "1.0.1",
+  "description": "",
+  "author": "Huy Nguyen<github.com/nghuyy>",
+  "license": "MIT",
+  "bin": {
+    "tinybuild": "./tinybuild"
+  },
+  "preferGlobal": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0"
+  }
+}
