@@ -3,3 +3,6 @@
 npm install @ng.huyy/shortcode -g
 ```
 
+```
+rand
+```
