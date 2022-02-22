@@ -3,4 +3,4 @@
 /**
  * Module dependencies.
  */
-require('./rpwd');
+require('./rpwd.js');

@@ -3,4 +3,4 @@
 /**
  * Module dependencies.
  */
-require('./index');
+require('./index.js');
